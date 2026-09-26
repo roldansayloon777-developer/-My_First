@@ -1,14 +1,20 @@
-<br><br>
-### 👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝙶𝚒𝚝𝙷𝚞𝚋 𝙴𝚡𝚙𝚎𝚛𝚝 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=40&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&height=40&lines=ZDSPGC+MIDSALIP+CAMPUS+;+PROVINCE_OF_ZAMBOANGA_DEL_SUR;POBLACION-A+MIDSALIP" alt="Typing SVG" /><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=1000&size=60&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=WELCOME+TO+MY+CV;I'M+ROLDAN;A_GITHUB+EXPERT" alt="Typing SVG" />
+</p>
+</p>
+
+###
+👨‍💻💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝗚𝗜𝗧𝗛𝗨𝗕 𝗘𝗫𝗣𝗘𝗥𝗧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥✅
 
 </div>
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <h1>✍︎𝗗𝗮𝗻 𝗦𝗮𝘆𝗹𝗼𝗼𝗻☕︎</h1>
+  <h1>✍︎𝘿𝙖𝙣 𝙎𝙖𝙮𝙡𝙤𝙤𝙣☕︎</h1>
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&width=600&lines=Financial+Advisor;Information+Systems+Student;Digital+Content+Creator;Tech+%26+Finance+Strategist;Software+%26+Systems+Enthusiast" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=E63946&center=true&vcenter=true&width=600&lines=Financial+Advisor;Information+Systems+Student;Digital+Content+Creator;Tech+%26+Finance+Strategist;Software+%26+Systems+Enthusiast" alt="Typing SVG" />
     </a>
   </h3>
 
