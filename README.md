@@ -1,12 +1,11 @@
 <br><br>
-
-### 🧙‍♂️ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; GitHub Star &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐
+### 👨‍💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝙶𝚒𝚝𝙷𝚞𝚋 𝙴𝚡𝚙𝚎𝚛𝚝 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥
 
 </div>
 <div align="center">
 
   <!-- Animated Typing Header -->
-  <h1>Roldan L. Saloon</h1>
+  <h1>✍︎𝗗𝗮𝗻 𝗦𝗮𝘆𝗹𝗼𝗼𝗻☕︎</h1>
   <h3>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=E63946&center=true&vcenter=true&width=600&lines=Financial+Advisor;Information+Systems+Student;Digital+Content+Creator;Tech+%26+Finance+Strategist;Software+%26+Systems+Enthusiast" alt="Typing SVG" />
@@ -43,11 +42,11 @@
 
   <!-- Animated Live Stats Counter Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/STARS-⭐_21K-55B135?style=for-the-badge&labelColor=333333" alt="Stars" />
-    <img src="https://img.shields.io/badge/FOLLOWERS-👥_5K-2175D9?style=for-the-badge&labelColor=333333" alt="Followers" />
+    <img src="https://img.shields.io/badge/LIKES-👍🏻_21Million-55B135?style=for-the-badge&labelColor=333333" alt="Stars" />
+    <img src="https://img.shields.io/badge/FOLLOWERS-👥_1.5Million-2175D9?style=for-the-badge&labelColor=333333" alt="Followers" />
   </p>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=roldansaloon&label=PROFILE%20VISITORS&color=8A2BE2&style=for-the-badge" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=roldansayloon&label=REAL_ESTATE_PROPERTIES%20&color=8A2BE2&style=for-the-badge" alt="Visitors" />
   </p>
 
   <br />
