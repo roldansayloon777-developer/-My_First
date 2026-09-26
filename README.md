@@ -1,14 +1,39 @@
+# 🤖 Roldan Sayloon
 
+### Robotics & Technology Enthusiast ⚙️
 
-### To make it look even better
+> Building • Programming • Experimenting • Learning
 
-I can also design you a **more advanced robotics profile** with:
+---
 
-**🤖 Futuristic robot theme**  
-**🟢 Green terminal/HUD style**  
-**⚡ Animated-looking sections**  
-**🔧 Electronics/engineering aesthetic**  
-**📊 GitHub stats and programming-language badges**  
-**🚀 "ROBOTICS LAB" style header**
+## 🤖 About Me
 
-That would make your profile look more like a **personal robotics engineer/developer portfolio** rather than a basic GitHub page.
+I'm a student interested in **robotics, programming, electronics, and automation**.
+
+I'm learning how software and hardware work together to create useful robotic systems.
+
+## ⚙️ Robotics Interests
+
+- 🤖 Robotics
+- 🔌 Electronics & Sensors
+- 🧠 Automation
+- ⚙️ Arduino & Microcontrollers
+- 💻 Python
+- 💻 C / C++
+- 📡 Robotics Communication
+
+## 🛠️ Currently Learning
+
+`Python` `C` `C++` `Arduino` `ESP32` `Git` `GitHub`
+
+## 🚀 My Mission
+
+```text
+SYSTEM STATUS: ONLINE
+
+> Learning Robotics ..... ███████░░░
+> Programming ........... ██████░░░░
+> Electronics ........... █████░░░░░
+> Building .............. ████░░░░░░
+
+STATUS: READY TO BUILD 🤖
