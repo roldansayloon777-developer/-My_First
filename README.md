@@ -85,3 +85,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="http://www.github.com/DanSayloon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IcyRosiana&stroke=10b981&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=10b981&currStreakLabel=14b8a6&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
 
 </a>
+<p align="center">
+  <a href="https://bun.sh"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Logo" height=100></a>
+</p>
+<h5 align="center">MY FAVORITE SIOPAO IS CHICKEN WITH EGG</h5>
