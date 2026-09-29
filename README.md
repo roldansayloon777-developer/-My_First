@@ -4,8 +4,6 @@
 </p>
 </p>
 
-###
-👨‍💻💻&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;𝗚𝗜𝗧𝗛𝗨𝗕 𝗘𝗫𝗣𝗘𝗥𝗧&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🖥✅
 
 </div>
 <div align="center">
@@ -56,20 +54,31 @@
   </p>
 
   <br />
+  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dan Sayloon
+=============================================================================================================================
 
-  <!-- Animated Glowing Divider Bar -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-db03ce00-a425-11eb-83f3-b9fb72d560b4.gif" width="100%" />
+![he-unscreen](https://user-images.githubusercontent.com/123532477/228426231-67c7ea3f-b6d7-4a25-8e0e-2b727677556d.gif)
 
-</div>
+* シ︎𝐼 𝑎𝑚 𝑎 𝑠𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗢𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺
 
-## 📋 Quick Details
+### 𝗘𝗫𝗣𝗘𝗥𝗧 𝗜𝗡:
 
-```yaml
-Full Name: Roldan L. Saloon
-Current Roles: Financial Advisor | Information Systems Student
-Academic Institution: Zamboanga del Sur Provincial Government College (ZDSPGC)
-Degree: Bachelor of Science in Information Systems (BSIS)
-Core Focus: FinTech, Systems Integration, Client Management, Content Strategy
-Location: Zamboanga del Sur, Philippines 🇵🇭
-Contact Email: roldansayloon777@gmail.com
-Contact Phone: +63 905 0958 981
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
+</p>
+
+
+### 𝗗𝗮𝗻'𝘀 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗔𝗰𝗰𝗼𝘂𝗻𝘁𝘀:
+
+<p align="left"> <a href="https://www.facebook.com/DanSayloon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/DanSayloon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_luvicy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+
+
+<a href="http://www.github.com/DanSayloon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=IcyRosiana&stroke=10b981&background=22272e&ring=14b8a6&fire=14b8a6&currStreakNum=10b981&currStreakLabel=14b8a6&sideNums=10b981&sideLabels=10b981&dates=10b981&hide_border=true" /></a>
+
+</a>
