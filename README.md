@@ -63,7 +63,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ![he-unscreen](https://user-images.githubusercontent.com/123532477/228426231-67c7ea3f-b6d7-4a25-8e0e-2b727677556d.gif)
 
-* シ︎𝐼 𝑎𝑚 𝑎 𝑠𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗢𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺
+* シ︎𝐼 𝑎𝑚 𝑎 𝑠𝑡𝑢𝑑𝑒𝑛𝑡 𝑜𝑓 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗢𝗳 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺 who loves CLVB & GIN
 
 ### 𝗘𝗫𝗣𝗘𝗥𝗧 𝗜𝗡:
 
