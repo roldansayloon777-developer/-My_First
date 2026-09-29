@@ -1,3 +1,6 @@
+<div align="center">
+
+[![Logo](https://i.imgur.com/RHkfYVm.png.png)](https://clashofclans.js.org/)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=40&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&height=40&lines=ZDSPGC+MIDSALIP+CAMPUS+;+PROVINCE_OF_ZAMBOANGA_DEL_SUR;POBLACION-A+MIDSALIP" alt="Typing SVG" /><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=1000&size=60&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=WELCOME+TO+MY+CV;I'M+ROLDAN;A_GITHUB+EXPERT" alt="Typing SVG" />
