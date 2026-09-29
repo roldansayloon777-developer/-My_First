@@ -2,7 +2,7 @@
 
 [![Logo](https://i.imgur.com/RHkfYVm.png.png)](https://clashofclans.js.org/)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=40&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&height=40&lines=ZDSPGC+MIDSALIP+CAMPUS+;+PROVINCE_OF_ZAMBOANGA_DEL_SUR;POBLACION-A+MIDSALIP" alt="Typing SVG" /><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=900&size=40&duration=4000&pause=1000&color=0099FF&center=true&vCenter=true&width=1000&height=40&lines=MINE+CRAFT+PLAYER+;+CLASH_OF_CLANS_PLAYER;POBLACION-A+MIDSALIP" alt="Typing SVG" /><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=1000&size=60&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=WELCOME+TO+MY+CV;I'M+ROLDAN;A_GITHUB+EXPERT" alt="Typing SVG" />
 </p>
 </p>
@@ -58,7 +58,7 @@
 
   <br />
   
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Dan Sayloon
+Hoi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) naa lagi ka diri? Ako diay si Dan Sayloon
 =============================================================================================================================
 
 ![he-unscreen](https://user-images.githubusercontent.com/123532477/228426231-67c7ea3f-b6d7-4a25-8e0e-2b727677556d.gif)
@@ -89,3 +89,60 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://bun.sh"><img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Logo" height=100></a>
 </p>
 <h5 align="center">MY FAVORITE SIOPAO IS CHICKEN WITH EGG</h5>
+
+<div align="center">
+
+[![][logo-url]][docs-url]
+
+**This is my GitHub Expert Badge since HighSchool**
+
+[![][version]](https://www.npmjs.com/package/daisyui)
+[![][commit]](https://github.com/saadeghi/daisyui)
+[![][license]](https://github.com/saadeghi/daisyui/blob/master/LICENSE)
+[![][stars]](https://github.com/saadeghi/daisyui)
+[![][installs]](https://www.npmjs.com/package/daisyui)
+[![][jsdelivr]](https://cdn.jsdelivr.net/npm/daisyui@5)
+[![][discord]](https://daisyui.com/discord/)
+[![][opencollectivebadge]](https://opencollective.com/daisyui)
+
+</div> 
+
+<div align="center">
+
+My Sponsors and Backers from Minecraft
+
+[![][backers_org]][opencollective]
+[![][backers]][opencollective]
+
+Contributors
+
+[![][contributors_img]][contributors]
+
+</div>
+
+<div align="center">
+
+༼ つ ◕_◕ ༽つ Kiss kas akoa kay mi basa ka
+
+[![][tweet]](https://twitter.com/intent/tweet?text=daisyUI%20%0D%0AComponents%20for%20Tailwind%20CSS%20%0D%0Ahttps://github.com/saadeghi/daisyui)
+
+</div>
+
+[version]: https://badgen.net/github/tag/saadeghi/daisyui?label=Version&color=1AD1A5
+[commit]: https://badgen.net/github/last-commit/saadeghi/daisyui?label=Last%20commit&color=1AD1A5
+[license]: https://badgen.net/github/license/saadeghi/daisyui?label=License&color=1AD1A5
+[stars]: https://badgen.net/github/stars/saadeghi/daisyui?label=GitHub%20stars&color=1AD1A5
+[installs]: https://badgen.net/npm/dt/daisyui?label=NPM%20installs&color=1AD1A5
+[jsdelivr]: https://badgen.net/jsdelivr/hits/npm/daisyui?color=1AD1A5
+[discord]: https://badgen.net/discord/members/S6TZxycVHs?label=Discord&color=1AD1A5
+[opencollectivebadge]: https://badgen.net/opencollective/backers/daisyui?label=Open%20Collective&color=1AD1A5
+[tweet]: https://img.shields.io/twitter/url?label=Share&url=https%3A%2F%2Fgithub.com%2Fsaadeghi%2Fdaisyui
+[docs-url]: https://daisyui.com/
+[logo-url]: https://img.daisyui.com/images/daisyui/daisyui-logo-192.png
+[opencollective]: https://opencollective.com/daisyui
+[sponsors]: https://opencollective.com/daisyui/tiers/premium-sponsor.svg?button=false&avatarHeight=60
+[backers]: https://opencollective.com/daisyui/backers.svg?button=false&width=978&avatarHeight=36
+[backers_org]: https://opencollective.com/daisyui/organizations.svg?button=false&avatarHeight=36
+[contribute]: https://github.com/saadeghi/daisyui/blob/master/.github/CONTRIBUTING.md
+[contributors_img]: https://opencollective.com/daisyui/contributors.svg?width=1060&button=false&avatarHeight=40
+[contributors]: https://github.com/saadeghi/daisyui/graphs/contributors
